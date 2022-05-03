@@ -124,7 +124,7 @@ function App() {
           <div className="basis-1/2 mapouter">
             <div className="gmap_canvas p-4">
               <iframe width='100%' height='300' id="gmap_canvas" src="https://maps.google.com/maps?q=3300%2036th%20st&t=&z=13&ie=UTF8&iwloc=&output=embed" 
-                frameBorder="0" scrolling="no" marginheight="0" marginwidth="0">
+                frameBorder="0" scrolling="no">
               </iframe>
             </div>
           </div>
