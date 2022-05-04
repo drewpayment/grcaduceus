@@ -123,7 +123,7 @@ function App() {
         <div className='flex flex-col md:flex-row mt-2 md:my-8 md:min-h-[300px]'>
           <div className="basis-1/2 mapouter">
             <div className="gmap_canvas p-4">
-              <iframe width='100%' height='300' id="gmap_canvas" src="https://maps.google.com/maps?q=3300%2036th%20st&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+              <iframe width='100%' height='300' id="gmap_canvas" src="https://maps.google.com/maps?q=3300%2036th%20st%20Grand%20Rapids&t=&z=13&ie=UTF8&iwloc=&output=embed" 
                 frameBorder="0" scrolling="no">
               </iframe>
             </div>
